@@ -1,4 +1,4 @@
-# dt_app (Data Transfer app)
+# dt_app (Data Transfer application)
 
 This repository contains source code of Java based test application that demonstrates integration with CFGUM.
 
